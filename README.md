@@ -1,6 +1,6 @@
 # aws-eks-efs
 
-    kubectl exec -it nfs sh
+    kubectl exec -it efs sh
     cd /opt
     ls
     mkdir phani
